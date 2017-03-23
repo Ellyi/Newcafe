@@ -1,0 +1,17 @@
+h1 {
+  color: brown;
+  text-align: center;
+   font-size: 30px;
+ }
+
+h2 {color: green;
+    text-align: center;
+  }
+
+h3 {color: yellow;
+    text-align: left;
+  }
+
+p { font-family: inherit;
+  font-style: oblique;
+  }
